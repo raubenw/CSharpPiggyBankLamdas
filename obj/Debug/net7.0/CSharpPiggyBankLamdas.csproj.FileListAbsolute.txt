@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\bin\Debug\net7.0\CSharpPiggyBankLamdas.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\bin\Debug\net7.0\CSharpPiggyBankLamdas.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\bin\Debug\net7.0\CSharpPiggyBankLamdas.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\bin\Debug\net7.0\CSharpPiggyBankLamdas.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\bin\Debug\net7.0\CSharpPiggyBankLamdas.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\refint\CSharpPiggyBankLamdas.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\CSharpPiggyBankLamdas.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankLamdas\obj\Debug\net7.0\ref\CSharpPiggyBankLamdas.dll
